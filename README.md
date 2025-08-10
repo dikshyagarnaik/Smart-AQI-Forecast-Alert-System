@@ -10,10 +10,6 @@
   * Deployement on AWS
   * Future scope of the Project
  
-## Linkdin Profile
-For any queries regarding about this project contact me
-
-Link : https://www.linkedin.com/in/anil-l-b023631b6/
 
 ## Video Demo
 
